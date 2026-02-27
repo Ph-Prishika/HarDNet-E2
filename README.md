@@ -8,7 +8,7 @@ This repository provides training, evaluation, calibration, and visualization ut
 
 ---
 
-## 🔬 Key Contributions
+##  Key Contributions
 
 - Structured shallow-to-deep semantic skip reinforcement
 - Even-layer aggregation inside HarDBlocks
@@ -19,7 +19,7 @@ This repository provides training, evaluation, calibration, and visualization ut
 
 ---
 
-## 📊 Problem Setting
+##  Problem Setting
 
 Binary or multi-class classification of pediatric renal ultrasound images:
 
@@ -32,7 +32,7 @@ Output: Class probabilities via softmax
 
 ---
 
-## 🏗 Architecture Overview
+##  Architecture Overview
 
 HarDNet-E2 extends HarDNet85 with:
 
